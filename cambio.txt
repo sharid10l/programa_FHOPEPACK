@@ -1,0 +1,19 @@
+<html>
+<head>
+<center>
+<img src="HOPEPACK.png" width="300" height="150">
+<body background="fondoazul.png">
+</head>
+<p><h2>Cambiar contraseña</h2></p>
+<p><h2>***************************</h2></p>
+<p><u><b><h2>Crea una contraseña segura</h2></b></u></p>
+<p><b>Crea una contraseña que no utilices en otros sitios web</b></p>
+<p><label>Contraseña antigua: <input required name="codigo" type="password" size="10" id="codi" /></label></p>
+<p><label>Contraseña nueva: <input required name="codigo" type="password" size="10" id="codi" /></label></p>
+<p><label>Confirmar contraseña: <input required name="codigo" type="password" size="10" id="codi" /></label></p>
+<form action="signin.php" method="post" name="formal">
+<p><input type="image" src="Botonenviar.PNG" name="sub"/></p>
+</form>
+</center>
+</body>
+</html>

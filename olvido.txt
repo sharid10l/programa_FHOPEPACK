@@ -1,0 +1,17 @@
+<html>
+<head>
+<center>
+<img src="HOPEPACK.png" width="300" height="150">
+<body background="fondoazul.png">
+</head>
+<p><h2>Recupera tu contraseña</h2></p>
+<b>Introduce tu dirección de correo electónico de recuperación</b>
+<p><label>Email: <input required name="codigo" type="email" size="30" max="99999" min="9999999999" step="1" id="codi" /></label></p>
+<form action="signin.php" method="post" name="formal">
+<p><input type="image" src="Botonenviar.PNG" name="sub"/></p>
+</form>
+<p><td><a href="hope pack usuario2.html">Volver al menú principal</a></p>
+<p><td><a href="cambio.html">Cambiar contraseña</a></p>
+</center>
+</body>
+</html>

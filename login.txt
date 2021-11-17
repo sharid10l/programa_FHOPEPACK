@@ -1,0 +1,28 @@
+<html>
+<head>
+<center>
+<img src="HOPEPACK.png" width="300" height="150">
+<body background="fondoazul.png">
+</head>
+<p><h2>LOGIN</h2></p>
+<table border="5">
+<u><b><h2>La lealtad de un animal no tiene límtites, por eso ayúdanos y ayúdales</h2></b></u>
+<p><h2>*******************************</h2></p>
+<tr><td>
+<p><label>Email: <input required name="codigo" type="email" size="30" max="99999" min="9999999999" step="1" id="codi" /></label></p>
+<p><label>Contraseña: <input required name="codigo" type="password" size="30" id="codi" /></label></p>
+<form action="signin.php" method="post" name="formal">
+<p><input type="image" src="Botonenviar.PNG" name="sub"/></p>
+</table>
+<p>
+<td><img src="hope.png" width="200" height="100">
+</p>
+<p><td><a href="olvido.html">¿Olvidó su contraseña?</a></p>
+<p><td><a href="signin.html">REGISTRARSE</a></p>
+<p><h2>********************************</h2></p>
+<p><b>Síguenos y apóyanos en nuestras redes sociales</b></p>
+<td><img src="red1.jpg" width="50" height="60">
+<td><img src="red3.jpg" width="50" height="60">
+</body>
+</center>
+</html>
